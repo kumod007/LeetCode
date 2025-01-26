@@ -1,7 +1,12 @@
 # Write your MySQL query statement below
 
 -- Method 1: Using Left Join.
--- select unique_id,name from employees as e1 LEFT JOIN EmployeeUNI as e2 on e1.id=e2.id; 
+SELECT 
+    unique_id, name
+FROM
+    employees AS e1
+        LEFT JOIN
+    EmployeeUNI AS e2 ON e1.id = e2.id; 
 
 
 -- Method 2: Using Condistions.
