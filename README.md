@@ -1,7 +1,7 @@
 # LeetCode
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Database
+## Database  
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/kumod007/LeetCode/tree/master/0197-rising-temperature) |
